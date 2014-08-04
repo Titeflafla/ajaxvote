@@ -8,9 +8,9 @@ pour installer ce module :
 - copier le contenu de ce dossier a la base de votre ftp
 - c'est tout ;)
 
-Démo disponible sur http://nk.titeflafla.net
+Démo disponible sur http://nk.chezyann.net
 
-Si jamais vous avez un soucis : http://www.titeflafla.net
+Si jamais vous avez un soucis : http://www.chezyann.net
 
 
 credits :
